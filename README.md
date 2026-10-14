@@ -6,6 +6,7 @@ An analysis of how COVID-19 spread through India between January 2020 and April 
 
 ## Questions
 
+
 1. How did India's two waves compare in size and speed?
 2. Did testing keep up with the spread of the virus?
 3. Where does India rank globally, in absolute terms and per person?
